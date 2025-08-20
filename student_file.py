@@ -1,0 +1,16 @@
+name = input("Enter name: ")
+age = int(input("Enter age: "))
+grade = input("Enter grade: ")
+school = input("Enter school: ")
+fav_sub = input("Enter favorite subject: ")
+hobbies = ["reading", "gaming", "coding"]
+email = input("Enter email: ")
+print(f"\n--- {name}'s Profile ---\n")
+print(f"Age: {age}")
+print(f"Grade: {grade}")
+print(f"School: {school}")
+print(f"Favorite Subject: {fav_sub}")
+print("Hobbies:")
+for h in hobbies:
+    print("-", h.strip())
+print(f"Email: {email}")   
