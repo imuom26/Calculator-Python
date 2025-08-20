@@ -1,16 +1,5 @@
-# Calculator Project
-A simple Python calculator that performs basic arithmetic operations:
--Addition
--Subtraction
--Multiplication
--Division
+# Python-Projects
 
-# How to Run 
-1. Download the `calculator.py` file.
-2. Open terminal/command prompt.
-3. Run the script: `python calculator.py`
-
-## Features
-- Console-based
-- User-friendly input
-- Handles invalid input
+This repository contains two Python Projects:
+-[Calculator Project](./calculator_project/README.md) - A simple arithmetic calculator.
+-[Student Project](./student_project/README.md) – A program for managing student files.
