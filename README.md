@@ -8,3 +8,5 @@ Each project is organized into its own folder with source code and a dedicated R
 
 
 -[Student Project](./student_project/README.md) – A project for managing basic student information (like adding, updating, and displaying student details).
+
+-[Student Marks Project (Pandas)](./student_marks_project/README.md) - A project that uses Pandas to store student marks, calculate averages across subjects, and display high achievers' results in a table.
